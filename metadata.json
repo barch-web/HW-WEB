@@ -1,0 +1,6 @@
+{
+  "name": "HW Security Guard Ltd | Security with purpose",
+  "description": "Official website and Supabase-powered security operations management system for HW SECURITY GUARD LTD in Accra, Ghana. Manned guarding, industrial security, cash-in-transit, CCTV installations, event security, and storage asset protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
